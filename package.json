@@ -13,7 +13,7 @@
     "web-scraping",
     "cheerio"
   ],
-  "author": "Your Name",
+  "author": "ewhx-dev",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
