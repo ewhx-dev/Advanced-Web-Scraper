@@ -19,7 +19,7 @@ A robust and modular web scraping solution built on Node.js, utilizing **Puppete
 
 1.  **Clone the repository:**
     ```bash
-    git clone https:[github.com/YOUR_USERNAME/Advanced-Web-Scraper.git](https://github.com/YOUR_USERNAME/Advanced-Web-Scraper.git)
+    git clone https:[github.com/ewhx-dev/Advanced-Web-Scraper.git](https://github.com/ewhx-dev/Advanced-Web-Scraper.git)
     cd Advanced-Web-Scraper
     ```
 2.  **Install dependencies** (Puppeteer, Cheerio, csv-writer):
