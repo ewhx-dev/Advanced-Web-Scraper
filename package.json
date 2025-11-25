@@ -1,0 +1,23 @@
+{
+  "name": "advanced-web-scraper",
+  "version": "1.0.0",
+  "description": "A robust and modular web scraping solution using Node.js, Puppeteer, and Cheerio.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "nodejs",
+    "web-scraping",
+    "cheerio"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^22.0.0" 
+  }
+}
